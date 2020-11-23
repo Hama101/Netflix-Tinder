@@ -3,7 +3,6 @@
 
 A Flask app that generates random movie recommendations, with details listed for each title, that a user can swipe through and watch with the click of a button.
 
-![app demo](/3_webdev/demo.gif)
 
 **📸YouTube Tutorial: [https://youtu.be/HZHOhf8EXXc](https://youtu.be/HZHOhf8EXXc)**
 
